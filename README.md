@@ -2,6 +2,7 @@
 ![171966349-65a725c6-2fa1-450e-9598-ad1035e33f0e](https://user-images.githubusercontent.com/78850311/173087779-3fc0d3f7-40b4-4771-88b5-fc8f34aa02bf.png)<br>
 # Project Name:<br>
 FooDelivery<br>
+![western-style-food-png-icon-free-download-775501-removebg-preview](https://user-images.githubusercontent.com/78850311/173119055-a2ac9ddd-d826-4295-b83b-7efd16315c45.png)<br>
 # Specification:<br>
 Приложение - сервис заказа еды.<br>
 Данное приложение позволяет делать заказ еды из меню<br>
