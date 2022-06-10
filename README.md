@@ -14,8 +14,7 @@ Just download and run the project!<br>
 Used for better user experience in ordering food.<br>
 # Contributing:<br>
 * Alex - PM<br>
-* Ilya - Developer<br>
+* Ilya - Developer and design manager<br>
 * Andrey - Interface Manager<br>
 * Volodya - Testing<br>
 
- 
