@@ -14,7 +14,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Build
-      run: xcodebuild -project 'delivery/delivery.xcodeproj' -scheme 'delivery' -destination 'platform=iOS Simulator,name=iPhone 12,OS=15.2' clean test
+      run: xcodebuild -project 'Delivery/Delivery.xcodeproj' -scheme 'Delivery' -destination 'platform=iOS Simulator,name=iPhone 12,OS=15.2' clean test
     - name: Run tests
-      run: xcodebuild -project 'delivery/delivery.xcodeproj' -scheme 'delivery' -destination 'generic/platform=iOS' -configuration Debug build CODE_SIGNING_ALLOWED=NO
+      run: xcodebuild -project 'Delivery/Delivery.xcodeproj' -scheme 'Delivery' -destination 'generic/platform=iOS' -configuration Debug build CODE_SIGNING_ALLOWED=NO
 
